@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\item.cs">
+    <Files>
+      <File FileName="Assets\scripts\item.cs" Line="18" Column="16" />
+      <File FileName="Assets\scripts\playerBehavior.cs" Line="46" Column="21" />
+      <File FileName="..\Jan 24 6.50pm\organized\Assets\scripts\boundary.cs" Line="1" Column="1" />
+      <File FileName="..\Jan 24 6.50pm\organized\Assets\scripts\item.cs" Line="1" Column="1" />
+      <File FileName="..\Jan 24 6.50pm\organized\Assets\scripts\planet.cs" Line="1" Column="1" />
+      <File FileName="..\Jan 24 6.50pm\organized\Assets\scripts\playerBehavior.cs" Line="57" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
